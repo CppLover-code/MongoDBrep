@@ -63,3 +63,4 @@ users.update_one(
 # Удаление документа
 
 users.delete_one({"name": "Mark"})
+
